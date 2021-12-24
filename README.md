@@ -9,9 +9,6 @@
     - Game
     - Movie
 - 🌱 I’m currently learning
-  - UE4
-  - 3DMax
-- 💞️ I’m looking to collaborate on
-  - All
+  - Java Advance
 - 📫 How to reach me
   - QQ:2827075398
