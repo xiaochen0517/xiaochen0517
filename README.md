@@ -6,7 +6,7 @@
     - vue
     - uniapp
   - entertainment
-    - Game:Overwatch
+    - Games
     - Movie
 - 🌱 I’m currently learning
   - C/C++
