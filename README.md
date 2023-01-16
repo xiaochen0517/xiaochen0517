@@ -9,6 +9,7 @@
     - Game:Overwatch
     - Movie
 - 🌱 I’m currently learning
+  - C/C++
   - Java Advance
 - 📫 How to reach me
   - QQ:2827075398
