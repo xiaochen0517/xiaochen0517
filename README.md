@@ -15,7 +15,7 @@
   - QQ:2827075398
   - EMail:xiaochen0517@qq.com
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,nodejs,html,vue&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,vue&theme=light)](https://skillicons.dev)
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
