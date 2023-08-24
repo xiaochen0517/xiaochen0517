@@ -1,1 +1,1 @@
-The world sucks.
+THE WORLD SUCKS.
