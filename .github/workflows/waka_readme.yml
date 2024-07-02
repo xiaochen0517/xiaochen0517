@@ -26,3 +26,4 @@ jobs:
           SHOW_COMMIT: false
           SHOW_UPDATED_DATE: false
           SHOW_LINES_OF_CODE: true
+          SHOW_OS: false
