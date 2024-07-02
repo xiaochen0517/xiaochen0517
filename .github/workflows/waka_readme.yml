@@ -17,7 +17,7 @@ jobs:
           COMMIT_EMAIL: 2827075398@qq.com
           SHOW_LANGUAGE: true
           SHOW_TIMEZONE: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE_PER_REPO: true
-          SHOW_SHORT_INFO: false
-          SHOW_LOC_CHART: false
+          SHOW_EDITORS: false
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_SHORT_INFO: true
+          SHOW_LOC_CHART: true
