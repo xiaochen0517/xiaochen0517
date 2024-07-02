@@ -1,7 +1,7 @@
 THE WORLD SUCKS.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,9 +16,6 @@ HTML                     5 hrs 25 mins       ██████░░░░░�
 GitIgnore file           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 TOML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-
-💻 Operating System: 
-Windows                  23 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
