@@ -20,3 +20,15 @@ Vue.js                   7 mins              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+### IDEs
+
+[![IDEs](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,neovim)](https://skillicons.dev)
+
+### Frameworks
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,vue,react,tauri)](https://skillicons.dev)
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=java,js,ts,python,rust,cpp)](https://skillicons.dev)
