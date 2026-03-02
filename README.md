@@ -9,7 +9,11 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 52 mins       ████████████████░░░░░░░░░   62.01 % 
+YAML                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 ```
 
 
