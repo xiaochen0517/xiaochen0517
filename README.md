@@ -29,4 +29,4 @@ Makefile                 48 mins             █░░░░░░░░░░�
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,js,ts,python,rust,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,js,ts,python,rust,c,cpp)](https://skillicons.dev)
