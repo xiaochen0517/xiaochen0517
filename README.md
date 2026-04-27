@@ -3,17 +3,17 @@ THE WORLD SUCKS.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.37%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     8 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
-C                        4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Python                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Java                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Rust                     12 hrs 18 mins      ███████████████░░░░░░░░░░   59.57 % 
+Makefile                 2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Vue                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+TOML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 
 
