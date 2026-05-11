@@ -9,11 +9,10 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-Rust                     12 hrs 19 mins      █████████████████░░░░░░░░   67.85 % 
-Vue                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-TOML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-HTTP Request             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-RGBDS Assembly           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Rust                     15 mins             █████████████████████████   99.06 % 
+HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
