@@ -5,16 +5,6 @@ THE WORLD SUCKS.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.37%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Rust                     15 mins             █████████████████████████   99.06 % 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-
 
 <!--END_SECTION:waka-->
 
