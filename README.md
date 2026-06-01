@@ -9,11 +9,7 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-JavaScript               40 mins             ███████████░░░░░░░░░░░░░░   42.25 % 
-Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-HTML                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+No Activity Tracked This Week
 ```
 
 
