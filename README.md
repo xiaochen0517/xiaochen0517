@@ -9,7 +9,10 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     0 secs              █████████████░░░░░░░░░░░░   50.41 % 
+HTTP Request             0 secs              ███████████░░░░░░░░░░░░░░   43.19 % 
+TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 
