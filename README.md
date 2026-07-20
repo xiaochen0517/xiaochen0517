@@ -9,11 +9,7 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-Rust                     46 mins             ████████████████░░░░░░░░░   63.76 % 
-C                        12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-TOML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 ```
 
 
