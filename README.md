@@ -9,11 +9,11 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-Java                     13 mins             █████████████████████████   99.64 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Vue                      33 mins             ██████████████████░░░░░░░   71.81 % 
+GitIgnore file           7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 🤖 **AI Coding This Week** 
