@@ -9,11 +9,7 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-Vue                      33 mins             ██████████████████░░░░░░░   71.81 % 
-GitIgnore file           7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
