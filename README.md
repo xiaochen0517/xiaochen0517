@@ -9,7 +9,11 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      23 mins             ████████░░░░░░░░░░░░░░░░░   32.61 % 
+C                        14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Text                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+CMake                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Git Config               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 🤖 **AI Coding This Week** 
