@@ -9,28 +9,36 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-JSON                     16 mins             ███████████████████████░░   90.14 % 
-HTTP                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Lua                      1 hr 17 mins        ███████████░░░░░░░░░░░░░░   44.49 % 
+GDShader                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+C++                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (11.42%)
+⏱ AI Coding Time: 43 mins (24.88%)
 
-✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
+✍️ 436 lines written by AI, 179 lines written by hand (70.89% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 397,444 Input Tokens, 70,772 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $12.96 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 6 AI Sessions, 14 AI Prompts
+
+Deepseek                 436 lines           █████████████████████████   100.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 1 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 70.89% of written lines came from AI
+📚 Verbose Prompter — average 8,321 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 36.44% of changed lines were hand-edited
 ```
 
 
