@@ -9,35 +9,37 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-Other                    45 mins             █████████████████░░░░░░░░   66.62 % 
-C++                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-XML                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C                        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other                    3 hrs 17 mins       █████████████░░░░░░░░░░░░   53.32 % 
+Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Lua                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Text                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (84.77%)
+⏱ AI Coding Time: 5 hrs 59 mins (97.15%)
 
-✍️ 0 lines written by AI, 171 lines written by hand (0.0% AI-written)
+✍️ 1,450 lines written by AI, 3 lines written by hand (99.79% AI-written)
 
-🔤 103,455 Input Tokens, 7,608 Output Tokens
+🔤 820,369 Input Tokens, 248,322 Output Tokens
 
-💵 $0.56 Estimated AI Cost This Week
+💵 $44.82 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 16 AI Prompts
+🧠 37 AI Sessions, 88 AI Prompts
 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      1,141 lines         ███████████████████░░░░░░   76.07 % 
+Opus                     204 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Sonnet                   131 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Haiku                    24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,006 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.79% of written lines came from AI
+📝 Concise Prompter — average 423 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.33% of changed lines were hand-edited
 ```
 
 
