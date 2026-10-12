@@ -1,7 +1,7 @@
 THE WORLD SUCKS.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -9,37 +9,33 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   40.57 % 
-Other                    2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-C++                      2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Rust                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-PowerShell               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+C++                      34 mins             ████████░░░░░░░░░░░░░░░░░   31.32 % 
+Markdown                 26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Lua                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+HTTP                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 14 mins (87.56%)
+⏱ AI Coding Time: 24 mins (22.66%)
 
-✍️ 20,523 lines written by AI, 448 lines written by hand (97.86% AI-written)
+✍️ 0 lines written by AI, 65 lines written by hand (0.0% AI-written)
 
-🔤 4,279,504 Input Tokens, 2,805,168 Output Tokens
+🔤 62,966 Input Tokens, 25,157 Output Tokens
 
-💵 $768.98 Estimated AI Cost This Week
+💵 $1.22 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 177 AI Prompts
+🧠 4 AI Sessions, 5 AI Prompts
 
-Deepseek                 18,792 lines        ██████████████████████░░░   89.89 % 
-Sonnet                   1,665 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Opencode-Cli             403 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-GPT                      46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.86% of written lines came from AI
-📄 Detailed Prompter — average 545 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.84% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 57 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
