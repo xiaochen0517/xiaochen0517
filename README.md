@@ -9,32 +9,32 @@ THE WORLD SUCKS.
 
 ```text
 💬 Programming Languages: 
-C++                      34 mins             ████████░░░░░░░░░░░░░░░░░   31.32 % 
-Markdown                 26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Lua                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-HTTP                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Markdown                 59 mins             ████████░░░░░░░░░░░░░░░░░   32.48 % 
+C++                      56 mins             ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Rust                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+C                        13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (22.66%)
+⏱ AI Coding Time: 30 mins (16.76%)
 
-✍️ 0 lines written by AI, 65 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 147 lines written by hand (0.0% AI-written)
 
-🔤 62,966 Input Tokens, 25,157 Output Tokens
+🔤 166 Input Tokens, 8,316 Output Tokens
 
-💵 $1.22 Estimated AI Cost This Week
+💵 $0.18 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 57 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 82 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
